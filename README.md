@@ -7,13 +7,13 @@ Using C++ and Raylib
 
 ***Constrols****
 
+**Player One**
+*Rock*    Player One: Q
+*Paper*   Player One: W
+*Scissors*Player One: E
 
-**Rock**
-Player One: Q
-Player Two: I
-**Scissors**
-Player One: W
-Player Two: O
-**Paper**
-Player One: E
-Player Two: P
+
+
+This is a good basis for a graphical Rock Paper Scissors
+Had a problem with the DrawTexture() function where it couldnt access my image file
+
